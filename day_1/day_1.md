@@ -63,6 +63,5 @@
   -----
 
 4) ## Test-Driven Development 🧪
-> Is a software development approach in which test cases are developed to specify and validate what the code will do.
 
 -----
