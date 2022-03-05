@@ -1,3 +1,5 @@
+[Live URL](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_5/class6.html)
+
 # The conclusion I understood from Read: Class 06 🧐
 
 >##  Displayed The keywords 📋
