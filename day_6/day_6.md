@@ -1,6 +1,6 @@
 [Live URL](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_6/day_6.html)
 
-# Reading: Bearer Authorization class 6
+# Reading: Bearer Authorization class 7
 
 |  Term  |   Meaning |
 |--- |--- |
