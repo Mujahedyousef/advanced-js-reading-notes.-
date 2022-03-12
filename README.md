@@ -13,3 +13,4 @@ This Repo contain all of my reading notes through the course.
 |   day_5 |   [day_5](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_5/class6.html)|
 |   day_6 |   [day_6](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_6/day_6.html)|
 |   day_7 |   [day_7](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_7/class_7.html)|
+|   day_8 |   [day_8](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_7/class_8.html)|
