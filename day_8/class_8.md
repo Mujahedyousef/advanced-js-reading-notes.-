@@ -1,4 +1,4 @@
-[Live_URL](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_7/class_8.html)
+[Live_URL](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_8/class_8.html)
 
 # Read: Class 09
 
