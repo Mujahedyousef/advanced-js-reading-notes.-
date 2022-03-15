@@ -17,7 +17,7 @@
 1. push operation : To insertion of an element into the stack.
 1. pop operation : To deletion of an element from the stack.
 
-* In stack, we always keep track of the last element present in the list with a pointer called ==top==.
+* In stack, we always keep track of the last element present in the list with a pointer called **top**.
 ![stack](/day_9/stack-1.png)
 
 ----
