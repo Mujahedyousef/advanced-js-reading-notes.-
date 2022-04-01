@@ -21,3 +21,4 @@ This Repo contain all of my reading notes through the course.
 |   day_13 |   [Trees](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_13/class_13.html)|
 |   day_14 |   [AWS: Cloud Servers](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_14/class_14.html)|
 |   day_15 |   [AWS: S3 and Lambda](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_15/class_15.html)|
+|   day_16 |   [AWS: API, Dynamo and Lambda](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_16/class_16.html)|
