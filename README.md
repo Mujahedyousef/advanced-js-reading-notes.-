@@ -25,3 +25,4 @@ This Repo contain all of my reading notes through the course.
 |   day_17 |   [Component Based UI](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_17/class_17.html)|
 |   day_18 |   [useState() Hook](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_18/class_18.html)|
 |   day_19 |   [useEffect() Hook](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_19/class_19.html)|
+|   day_20 |   [useReducer() Hook](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_20/class_20.html)|
