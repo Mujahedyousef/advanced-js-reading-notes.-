@@ -26,5 +26,5 @@ This Repo contain all of my reading notes through the course.
 |   day_18 |   [useState() Hook](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_18/class_18.html)|
 |   day_19 |   [useEffect() Hook](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_19/class_19.html)|
 |   day_20 |   [useReducer() Hook](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_20/class_20.html)|
-|   day_20 |   [Hash Tables](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_21/class_21.html)|
+|   day_21 |   [Hash Tables](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_21/class_21.html)|
 
