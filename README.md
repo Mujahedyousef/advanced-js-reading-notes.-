@@ -28,4 +28,4 @@ This Repo contain all of my reading notes through the course.
 |   day_20 |   [useReducer() Hook](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_20/class_20.html)|
 |   day_21 |   [Hash Tables](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_21/class_21.html)|
 |   day_22 |   [Context API](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_22/class_22.html)|
-
+|   day_23 |   [Login and Auth](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_23/class_23.html)|
