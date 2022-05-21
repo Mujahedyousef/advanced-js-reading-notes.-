@@ -29,3 +29,4 @@ This Repo contain all of my reading notes through the course.
 |   day_21 |   [Hash Tables](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_21/class_21.html)|
 |   day_22 |   [Context API](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_22/class_22.html)|
 |   day_23 |   [Login and Auth](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_23/class_23.html)|
+|   day_24 |   [Dynamic API Server](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_24/class_24.html)|
