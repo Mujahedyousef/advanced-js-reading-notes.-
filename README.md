@@ -31,3 +31,4 @@ This Repo contain all of my reading notes through the course.
 |   day_23 |   [Login and Auth](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_23/class_23.html)|
 |   day_24 |   [Dynamic API Server](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_24/class_24.html)|
 |   day_25 |   [Graph Data Structure](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_25/class_25.html)|
+|   day_26 |   [Application State with Redux](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_26/class_26.html)|
