@@ -34,3 +34,4 @@ This Repo contain all of my reading notes through the course.
 |   day_26 |   [Application State with Redux](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_26/class_26.html)|
 |   day_27 |   [Redux - Combined Reducers](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_27/class_27.html)|
 |   day_28|   [Redux - Asynchronous Action](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_28/class_28.html)|
+|   day_29|   [Redux - Additional Topics](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_29/class_29.html)|
