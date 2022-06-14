@@ -37,3 +37,4 @@ This Repo contain all of my reading notes through the course.
 |   day_29|   [Redux - Additional Topics](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_29/class_29.html)|
 |   day_30|   [React Native](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_30/class_30.html)|
 |   day_31|   [Ethics](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_31/class_31.html)|
+|   day_32|   [OSS Contributions](https://mujahedyousef.github.io/advanced-js-reading-notes.-/day_32/class_32.html)|
